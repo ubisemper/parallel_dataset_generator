@@ -2,14 +2,9 @@
 
 ## Description
 
-This code provides a a HPC optimized dataset generator for simulated SIMPA images. 
+This code provides a a HPC optimized dataset generator for simulated SIMPA images.
 
 ## Table of Contents TODO
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation TODO
 
